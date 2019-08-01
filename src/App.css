@@ -1,0 +1,36 @@
+button.square {
+    float: right;
+    width: 70px;
+    height: 70px;
+    font-size: 32px;
+    background: transparent;
+    border: none;
+    outline: none !important;
+}
+
+div#board {
+    display: table;
+    margin: 50px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: 5px auto;
+}
+
+.vert {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.hori {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+* {
+    text-align: center;
+}
